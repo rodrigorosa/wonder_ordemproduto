@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Wonder_OrdemProduto>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Eav/>
+                <Mage_Catalog/>
+            </depends>
+        <Wonder_OrdemProduto>
+    </modules>
+</config>

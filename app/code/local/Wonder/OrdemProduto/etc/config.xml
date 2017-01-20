@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Wonder_OrdemProduto>
+      <version>0.0.1</version>
+    </Wonder_OrdemProduto>
+  </modules>
+  <global>
+    <resources>
+      <ordemproduto_setup>
+        <setup>
+          <module>Wonder_OrdemProduto</module>
+          <class>Mage_Catalog_Model_Resource_Eav_Mysql4_Setup</class>
+        </setup>
+        <connection>
+          <use>core_setup</use>
+        </connection>
+      </ordemproduto_setup>
+    </resources>
+  </global>
+</config>
