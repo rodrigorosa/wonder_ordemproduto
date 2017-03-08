@@ -8,6 +8,6 @@
                 <Mage_Eav/>
                 <Mage_Catalog/>
             </depends>
-        <Wonder_OrdemProduto>
+        </Wonder_OrdemProduto>
     </modules>
 </config>
